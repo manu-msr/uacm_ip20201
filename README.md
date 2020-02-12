@@ -8,4 +8,4 @@ Introducción a la Programación es una materia obligatoria del primer semestre 
 
 | Fecha | Tema                           | Material |
 |-------|--------------------------------|----------|
-| 12/02 | Procesamiento de instrucciones | [Sesión 1](Sesion-01/) |
+| 12/02 | Procesamiento de instrucciones | [Sesión 1](sesion01/) |
