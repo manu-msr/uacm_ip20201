@@ -10,5 +10,5 @@
 #### ORGANIZACION DE LA CLASE
 
 - Procesamiento de instrucciones
-	- [Ejemplo](ejemplo/)
-	- [Actividad](actividad/)
+	- [Ejemplo](ejemplo01/)
+	- [Actividad](actividad01/)
