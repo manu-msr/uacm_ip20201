@@ -4,7 +4,7 @@
 
 ### OBJETIVO
 
-- Repasar el concepto de procesamiento de instrucciones de manera gráfica.
+- Escribir programas que hagan uso de saltos para ilustrar el procesamiento de instrucciones de manera gráfica.
 
 #### REQUISITOS
 
@@ -12,11 +12,6 @@
 
 #### DESARROLLO
 
-1. Escribe un programa que calcule el área de un rectángulo usando los comandos del simulador y los siguientes datos:
+1. Modifica el programa del ejemplo para que ahora verifique si el número es impar, realiza la simulación, observa los resultados y guarda el programa en tu equipo.
 
-   - Base: 17
-   - Altura: 29
-
-   Recuerda cargar el valor de las variables. El resultado debe almacenarse en una celda distinta a la de las variables iniciales.
-
-2. Realiza la simulación y observa los resultados.
+2. Modifica el programa del ejemplo para que ahora verifique si un número es múltiplo de 3, realiza la simulación, observa los resultados y guarda el programa en tu equipo.
