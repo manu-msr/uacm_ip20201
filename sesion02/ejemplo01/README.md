@@ -67,7 +67,7 @@
    HLT
    ```
    
-4. Ejecuta el código en el simulador y observa el comportamiento. Puedes copiar y pegar el código de [aquí](codigos/even.json), pero asegurate de entenderlo. Por atención a la ejecución de los saltos y observa el valor final de `Z`.
+4. Ejecuta el código en el simulador y observa el comportamiento. Puedes descargar el código final [aquí](codigos/even.json) y cargarlo en el simulador, pero asegurate de entenderlo. Por atención a la ejecución de los saltos y observa el valor final de `Z`.
 
    ![imagen1](imagenes/s2e11.png)
    
