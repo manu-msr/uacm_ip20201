@@ -4,11 +4,10 @@
 
 ### OBJETIVOS 
 
-- Repasar el procesamiento de instrucciones.
-- Usar el simulador *Von Neumann Simulator* para apreciar el procesamiento de instrucciones de manera visual.
+- Escribir programas que hagan uso de saltos a través del simulador *Von Neumann Simulator* para apreciar el procesamiento de instrucciones de manera visual.
 
 #### ORGANIZACION DE LA CLASE
 
 - Procesamiento de instrucciones
-	- [Ejemplo](ejemplo01/)
-	- [Actividad](actividad01/)
+   - [Ejemplo](ejemplo01/)
+   - [Actividad](actividad01/)
