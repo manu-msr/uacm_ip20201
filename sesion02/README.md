@@ -1,4 +1,4 @@
-[`Introducción a la Programación`](../README.md) > `Sesión 01`
+[`Introducción a la Programación`](../README.md) > `Sesión 02`
 
 ## Procesamiento de instrucciones
 
