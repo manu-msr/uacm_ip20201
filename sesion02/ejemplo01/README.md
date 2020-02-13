@@ -25,10 +25,10 @@
    
    2. Multiplicar el resultado obtenido entre 2.
    
-     ```
-     2 * 2 = 4
-     1 * 2 = 2
-     ```
+      ```
+      2 * 2 = 4
+      1 * 2 = 2
+      ```
      
    3. Si el valor obtenido es igual al original, devolvemos un 1 (verdadero), si no lo es, devolvemos falso. 
    
@@ -67,9 +67,9 @@
    HLT
    ```
    
-4. Ejecuta el código en el simulador y observa el comportamiento. Puedes copiar y pegar el código de [aquí](even.json), pero asegurate de entenderlo. Por atención a la ejecución de los saltos y observa el valor final de `Z`.
+4. Ejecuta el código en el simulador y observa el comportamiento. Puedes copiar y pegar el código de [aquí](codigos/even.json), pero asegurate de entenderlo. Por atención a la ejecución de los saltos y observa el valor final de `Z`.
 
-   ![imagen1](imagenes/s1e11.png)
+   ![imagen1](imagenes/s2e11.png)
    
-   ![imagen2](imagenes/s1e12.png)
+   ![imagen2](imagenes/s2e12.png)
    
