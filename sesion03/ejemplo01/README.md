@@ -19,7 +19,7 @@ En esta sesión resolveremos un problema por medio de la Metodología de Soluci�
 
 Dado el siguiente mundo, escribir un programa para que Karel llegue al zumbador correspondiente.
 
-![imagen](s3e11.png)
+![imagen](imagenes/s3e11.png)
 
 ##### 2. Análisis de la solución del problema
 
@@ -52,7 +52,7 @@ Dado el siguiente mundo, escribir un programa para que Karel llegue al zumbador 
 
 **Diagrama de flujo**
 
-![imagen](s3e12.png)
+![imagen](imagenes/s3e12.png)
 
 **Prueba de escritorio**
 
