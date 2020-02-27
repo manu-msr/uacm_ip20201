@@ -1,17 +1,19 @@
-[`Introducción a la Programación`](../../README.md) > [`Sesión 02`](../README.md) > `Ejemplo 01`
+[`Introducción a la Programación`](../../README.md) > [`Sesión 03`](../README.md) > `Actividad`
 
-## Actividad 1: Procesamiento de instrucciones
+## Actividad 1: Diseño de algoritmos con Karel
 
 ### OBJETIVO
 
-- Escribir programas que hagan uso de saltos para ilustrar el procesamiento de instrucciones de manera gráfica.
+- Poner en práctica lo aprendido sobre la Metodología de Solución de Problema para resolver un problema usando Karel.
 
 #### REQUISITOS
 
-1. Página del simulador: [Von Neumann Simulator](http://vnsimulator.altervista.org/)
+1. Página del simulador: [Karel](https://omegaup.com/karel.js)
 
 #### DESARROLLO
 
-1. Modifica el programa del ejemplo para que ahora verifique si el número es impar, realiza la simulación, observa los resultados y guarda el programa en tu equipo.
+Dado el siguiente mundo, escribir un programa para que Karel llegue al zumbador correspondiente.
 
-2. Modifica el programa del ejemplo para que ahora verifique si un número es múltiplo de 3, realiza la simulación, observa los resultados y guarda el programa en tu equipo.
+![imagen](imagenes/s3a11.png)
+
+Puedes descargar el mundo [aquí](codigos/mundo.in).
