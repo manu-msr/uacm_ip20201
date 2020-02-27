@@ -117,3 +117,7 @@ class program {
 }
 ```
 
+Puedes descargar el código y el mundo para probar la solución en el simulador [aquí](codigos/). 
+
+- Para cargar el mundo haz clic en el botón `Mundo` y selecciona la opción `Abrir .in`.
+- Para cargar el código haz clic en el botón `Código` y selecciona la opción `Abrir`.
