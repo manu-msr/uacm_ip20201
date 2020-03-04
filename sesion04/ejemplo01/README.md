@@ -1,123 +1,84 @@
-[`Introducción a la Programación`](../../README.md) > [`Sesión 03`](../README.md) > `Ejemplo 01`
+[`Introducción a la Programación`](../../README.md) > [`Sesión 04`](../README.md) > `Ejemplo 01`
 
-## Ejemplo 1: Diseño de algoritmos con Karel
+## Ejemplo 1: Operaciones de salida
 
-### OBJETIVO
+Las operaciones de salida, juegan un papel fundamental en todo programa, pues son la forma que tenemos de interactuar con el usuario. En este ejemplo escribiremos un programa que imprima una pirámide de 5 pisos en pantalla. Salida final del programa queda de la siguiente manera:
 
-- Dar la solución a un problema usando la Metodología de Solución de Problemas vista en clase.
-- Codificar la solución en un lenguaje sencillo como lo es el simulador Karel.
+```bash
+    *
+   ***
+  *****
+ *******
+*********
+```
 
-#### REQUISITOS
+Lo primero que haremos será cargar la biblioteca `stdio.h` que incluye funciones de entrada y salida. Para incluir una biblioteca, debemos usar la primitiva `#include`.
 
-1. Página del simulador: [Karel](https://omegaup.com/karel.js/)
+```c
+#include <stdio,h>
+```
 
-#### DESARROLLO
+Ahora, dado que nuestro programa debe ejecutarse y todos los programas ejecutables deben incluir la definición de una función `main`, agregaremos esta definición.
 
-En esta sesión resolveremos un problema por medio de la Metodología de Solución de Problemas que vimos en clase, mediante cada una de sus fases.
+Recuerda que esta función debe regresar un número indicando si el programa se ejecutó correctamente o no. En nuestro caso regresaremos 0 pues no estamos realizando ningún proceso complejo que deba reportar una falla.
 
-##### 1. Definición del problema
+```c
+#include <stdio.h>
 
-Dado el siguiente mundo, escribir un programa para que Karel llegue al zumbador correspondiente.
-
-![imagen](imagenes/s3e11.png)
-
-##### 2. Análisis de la solución del problema
-
-- Entrada: Mundo inicial. Karel se encuentra orientado al norte en la parte inferior de la figura.
-
-- Salida: Mundo final. Karel se encuentra orientado al sur en la posición donde se encuentra el zumbador.
-
-- Proceso: Rodear la figura hasta llegar al zumbador.
-
-##### 3. Diseño de la solución del problema
-
-**Algoritmo**
-
-1. Inicio
-2. Gira-Derecha (Gira-Izquierda 3 veces)
-3. Avanza
-4. Gira-Izquierda
-5. Avanza 3 veces
-6. Giza-Izquierda
-7. Avanza
-8. Gira-Derecha (Gira-Izquierda 3 veces)
-9. Avanza 3 veces
-10. Gira-Izquierda
-11. Avanza 2 veces
-12. Gira-Izquierda
-13. Avanza 2 veces
-14. Recoge-Zumbador
-15. Apagate
-16. Fin
-
-**Diagrama de flujo**
-
-![imagen](imagenes/s3e12.png)
-
-**Prueba de escritorio**
-
-Verificar en papel y lapiz que el algoritmo es correcto
-
-##### 4. Desarrollo de la solución del problema
-
-Implementación en el simulador de Karel.
-
-Para implementar el algoritmo en Karel, usaremos la versión de __Java__. Las siguientes son operaciones equivalentes con el algoritmo en pseudocódigo dado.
-
-| Pseudocódigo    | Karel          |
-| --------------- | -------------- |
-| Avanza          | `move()`       |
-| Gira-Izquierda  | `turnleft()`   |
-| Recoge-Zumbador | `pickbeeper()` |
-| Deja-Zumbador   | `putbeeper()`  |
-| Apagate         | `turnoff()`    |
-
-Para repetir instrucciones se usa la estructura `iterate`. Por ejemplo, para avanzar 5 veces:
-
-```java
-iterate(5) {
-   move();
+int main(void)
+{
+   return 0;
 }
 ```
 
-Nota que cada instrucción se separa por punto y coma.
+Ahora comenzaremos a dibujar la pirámide. Para imprimir texto en la pantalla se hace uso de la función `printf`. Esta función recibe una cadena de texto. Recuerda que una cadena es una secuencia de caracteres y debe delimitarse por comillas dobles `"`. Se pueden incluir saltos de linea o tabuladores en una cadena mediante el uso de secuencias de escape. En __C__ tenemos las siguientes secuencias:
 
-A continuación se muestra la solución al problema dado.
+| Secuencia | Descripción                                                          |
+| --------- | -------------------------------------------------------------------- |
+| `\n`      | Salto de línea. Posiciona el cursor al inicio de la siguiente línea. |
+| `\t`      | Tabulador. Mueve el cursor a la siguiente posición del tabulador.    |
+| `\a`      | Alerta. Hace sonar la alerta del sistema.                            |
+| `\\`      | Diagonal invertida. Inserta una diagonal invertida en la cadena.     |
+| `\"`      | Comilla doble. Inserta una comilla doble en la cadena.               | 
 
-```java
-class program {
-    program () {
-        iterate(3) {
-           turnleft();
-        }
-        move();
-        turnleft();
-        iterate(3) {
-           move();
-        }
-        turnleft();
-        move();
-        iterate(3) {
-           turnleft();
-        }
-        iterate(3) {
-           move();
-        }
-        turnleft();
-        iterate(2) {
-           move();
-        }
-        turnleft();
-        iterate(2) {
-           move();
-        }
-        pickbeeper();
-        turnoff();
-    }
+Para imprimir la pirámide veremos dos formas, una utilizando instrucciones `printf` simples con saltos de línea y otra usando una única cadena con saltos de línea `\n`. Añadimos comentarios descriptivos al código.
+
+**Mediante `printf`**
+
+```c
+#include <stdio.h>
+
+/* Programa que imprime una pirámide de cinco niveles. */
+
+int main(void)
+{
+   // Impresión de cadenas.
+   printf("    *    \n");
+   printf("   ***   \n");
+   printf("  *****  \n");
+   printf(" ******* \n");
+   printf("*********\n");
+   
+   system("pause"); // para DevC++
+   return 0;
 }
 ```
 
-Puedes descargar el código y el mundo para probar la solución en el simulador [aquí](codigos/). 
+**Mediante saltos de línea**
 
-- Para cargar el mundo haz clic en el botón `Mundo` y selecciona la opción `Abrir .in`.
-- Para cargar el código haz clic en el botón `Código` y selecciona la opción `Abrir`.
+```c
+#include <stdio.h>
+
+/* Programa que imprime una pirámide de cinco niveles. */
+
+int main(void)
+{
+   // Impresión de cadenas.
+   printf("    *    \n   ***   \n  *****  \n ******* \n*********\n");
+   
+   system("pause"); // para DevC++
+   return 0;
+}
+```
+
+Puedes descargar los códigos [aquí](codigos/).
