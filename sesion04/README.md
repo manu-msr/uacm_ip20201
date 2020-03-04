@@ -1,13 +1,16 @@
-[`Introducción a la Programación`](../README.md) > `Sesión 03`
+[`Introducción a la Programación`](../README.md) > `Sesión 04`
 
-## Diseño de algoritmos con Karel
+## Operaciones de salida en __C__
 
 ### OBJETIVOS 
 
-- Visualizar el proceso de ejecución de un algoritmo usando el simulador de Karel.
+- Repasar la estructura básica de un programa en __C__.
+- Usar operaciones de salida para mostrar mensajes en pantalla.
 
 #### ORGANIZACION DE LA CLASE
 
-- Diseño de algoritmos con Karel
+- Operaciones de salida
    - [Ejemplo](ejemplo01/)
-   - [Actividad](actividad01/)
+   
+#### ACTIVIDAD   
+- [Actividad](actividad01/)
