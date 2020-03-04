@@ -1,19 +1,25 @@
-[`Introducción a la Programación`](../../README.md) > [`Sesión 03`](../README.md) > `Actividad`
+[`Introducción a la Programación`](../../README.md) > [`Sesión 04`](../README.md) > `Actividad`
 
-## Actividad 1: Diseño de algoritmos con Karel
+## Actividad 1: Operaciones de salida
 
 ### OBJETIVO
 
-- Poner en práctica lo aprendido sobre la Metodología de Solución de Problema para resolver un problema usando Karel.
+- Poner en práctica lo aprendido sobre las operaciones de salida en __C__.
 
 #### REQUISITOS
 
-1. Página del simulador: [Karel](https://omegaup.com/karel.js)
+1. Compilador __DevC++__.
 
 #### DESARROLLO
 
-Dado el siguiente mundo, escribir un programa para que Karel llegue al zumbador correspondiente.
+Escribe un programa que imprima la primera letra de tu nombre construida con la misma letra. Por ejemplo, si la primera letra de tu nombre es `M`, el programa deberá imprimir.
 
-![imagen](imagenes/s3a11.png)
-
-Puedes descargar el mundo [aquí](codigos/mundo.in).
+```bash
+MMM      MMM
+MMMM    MMMM
+MMMMMMMMMMMM
+MMM MMM MMMM
+MMM  M   MMM
+MMM      MMM
+MMM      MMM
+```
