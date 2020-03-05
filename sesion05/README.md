@@ -11,7 +11,6 @@
 
 - Operaciones de entrada y aritmética
    - [Ejemplo 1](ejemplo01/README.md)
-   - [Ejemplo 2](ejemplo02/README.md)
    
 #### ACTIVIDAD   
 - [Actividad](actividad01/README.md)
