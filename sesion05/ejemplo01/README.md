@@ -98,7 +98,7 @@ Nosotros simplemente usaremos la definición de *pi* mediante la constante `M_PI
 area = M_PI * pow(radio,2);
 ```
 
-#### 5. Mostrar los resultados al usuario
+### 5. Mostrar los resultados al usuario
 
 Ahora mostraremos los resultados al usuario, para ello usaremos `printf` con un especificador de formato. Los especificadores de formato son útiles para añadir el valor de variables a las cadenas mostrada por `printf`. 
 
