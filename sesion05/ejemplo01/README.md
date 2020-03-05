@@ -82,11 +82,11 @@ Usamos el especificador `%f` pues recibiremos un número flotante y lo almacenar
 
 Ahora calcularemos el área y la guardaremos en la variable `area`, con lo cual traduciremos la fórmula anterior. Podriamos calcular el valor de *pi* pero queda fuera de los objetivos de este curso, así que ocuparemos una biblioteca que tenga esta definición.
 
-La biblioteca `math.h` incluye varias funciones y constantes que harán nuestra vida más fácil al momento de hacer cálculos simples y complejos. Para incluir esta biblioteca, añadiremos la línea `#import <math.h>` justo abajo de la importación de la biblitoeca de entrada y salida.
+La biblioteca `math.h` incluye varias funciones y constantes que harán nuestra vida más fácil al momento de hacer cálculos simples y complejos. Para incluir esta biblioteca, añadiremos la línea `#include <math.h>` justo abajo de la importación de la biblitoeca de entrada y salida.
 
 ```c
-#import <stdio.h>
-#import <math.h>
+#include <stdio.h>
+#include <math.h>
 ```
 
 Puedes consultas las funciones de esta biblitoteca [aquí](https://www.geeksforgeeks.org/c-library-math-h-functions/).
@@ -116,8 +116,8 @@ printf("\nEl resultado es: %f", area);
 El programa final queda como sigue:
 
 ```c
-#import <stdio.h>
-#import <math.h>
+#include <stdio.h>
+#include <math.h>
 
 /* Programa que calcula el área de un círculo a partir
    del radio ingresado por el usuario. */
@@ -141,6 +141,14 @@ int main(void)
   system("pause"); // Para DevC++
   return 0;
 }
+```
+
+Ejemplo de ejecución:
+
+```bash
+Introduce el radio del círculo: 5
+
+El resultado es: 78.539818
 ```
 
 Puedes descargar el código [aquí](codigos/Area.c).
