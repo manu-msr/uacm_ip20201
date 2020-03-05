@@ -11,10 +11,7 @@
 
 - Operaciones de entrada y aritmética
    - [Ejemplo 1](ejemplo01/README.md)
-- Operaciones aritméticas
    - [Ejemplo 2](ejemplo02/README.md)
-- Metodología usando __C__
-   - [Ejemplo 3](ejemplo03/README.md)
    
 #### ACTIVIDAD   
 - [Actividad](actividad01/README.md)
