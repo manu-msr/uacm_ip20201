@@ -12,3 +12,4 @@ Introducción a la Programación es una materia obligatoria del primer semestre 
 | 13/02 | Procesamiento de instrucciones II  | [Sesión 2](sesion02/README.md) |
 | 27/02 | Diseño de algoritmos con __Karel__ | [Sesión 3](sesion03/README.md) |
 | 04/03 | Operaciones de salida en __C__     | [Sesión 4](sesion04/README.md) |
+| 05/03 | Aritmética en __C__                | [Sesión 5](sesion05/README.md) |
