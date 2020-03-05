@@ -17,4 +17,4 @@
    - [Ejemplo 3](ejemplo03/README.md)
    
 #### ACTIVIDAD   
-- [Actividad](actividad01/)
+- [Actividad](actividad01/README.md)
