@@ -10,7 +10,7 @@
 #### ORGANIZACION DE LA CLASE
 
 - Operaciones de salida
-   - [Ejemplo](ejemplo01/)
+   - [Ejemplo](ejemplo01/README.md)
    
 #### ACTIVIDAD   
-- [Actividad](actividad01/)
+- [Actividad](actividad01/README.md)
