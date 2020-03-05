@@ -9,7 +9,7 @@
 
 #### ORGANIZACION DE LA CLASE
 
-- Operaciones de entrada
+- Operaciones de entrada y aritmética
    - [Ejemplo 1](ejemplo01/README.md)
 - Operaciones aritméticas
    - [Ejemplo 2](ejemplo02/README.md)
