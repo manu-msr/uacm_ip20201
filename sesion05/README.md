@@ -1,15 +1,15 @@
-[`Introducción a la Programación`](../README.md) > `Sesión 04`
+[`Introducción a la Programación`](../README.md) > `Sesión 05`
 
-## Operaciones de salida en __C__
+## Aritmética en __C__
 
 ### OBJETIVOS 
 
 - Repasar la estructura básica de un programa en __C__.
-- Usar operaciones de salida para mostrar mensajes en pantalla.
+- Usar operaciones aritméticas para traducir algunas fórmulas matemáticas.
 
 #### ORGANIZACION DE LA CLASE
 
-- Operaciones de salida
+- Operaciones aritméticas
    - [Ejemplo](ejemplo01/)
    
 #### ACTIVIDAD   
