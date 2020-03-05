@@ -1,6 +1,6 @@
 [`Introducción a la Programación`](../../README.md) > [`Sesión 05`](../README.md) > `Ejemplo 01`
 
-## Ejemplo 1: Operaciones de salida y aritmética
+## Ejemplo 1: Operaciones de entrada y aritmética
 
 Adicional a las operaciones de salida que revisamos en la sesión pasada, __C__ cuenta con operaciones de salida que también se encuentran dentro de la biblioteca `stdio.h`. Para ejemplificar el uso de estas funciones, definiremos paso a paso un programa que calcule el área de un círculo a partir de un radio ingresado por el usuario. La fórmula para calcular el área de un círculo es: 
 
