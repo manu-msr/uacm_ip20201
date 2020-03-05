@@ -6,7 +6,7 @@ Adicional a las operaciones de salida que revisamos en la sesión pasada, __C__ 
 
 ![imagen](imagenes/imagen1.gif)
 
-#### 1. Importando biblioteca de entrada y salida
+### 1. Importando biblioteca de entrada y salida
 
 Como siempre, lo primero será importar la biblioteca estándar de entrada y salida. Para ello, agregamos la siguiente instrucción al inicio de nuestro programa.
 
@@ -14,7 +14,7 @@ Como siempre, lo primero será importar la biblioteca estándar de entrada y sal
 #include <stdio.h>
 ```
 
-#### 2. Definición de la función `main`
+### 2. Definición de la función `main`
 
 Para que nuestro programa se pueda ejecutar, debemos incluir la definición de la función `main`. Recuerda que el cuerpo de la función, va delimitado por llaves y que debe incluir la instrucción `return 0` para indicar que todo finalizó correctamente. También añadimos algunos comentarios para hacer más claro el objetivo del programa.
 
@@ -28,7 +28,7 @@ int main(void)
 }
 ```
 
-#### 3. Declaración de variables
+### 3. Declaración de variables
 
 Pediremos al usuario el radio del círculo, por lo tanto necesitamos una variable. En este caso la variable debe ser de tipo flotante (`float`) pues el radio de un círculo puede ser expresado con partes fraccionarias. También necesitaremos declarar una variable para el resultado, así que nuestra declaración queda como:
 
@@ -51,7 +51,7 @@ Recuerda que existen otros tipos de datos de __C__, la siguiente tabla muestra a
 
 Más adelante veremos a qué se refieren las palabras pequeño, mediano y grande.
 
-#### 4. Pedir los datos al usuario
+### 4. Pedir los datos al usuario
 
 Dado que el usuario sólo ingresará un número, únicamente pediremos dicho valor. Primero debemos pedir el dato mostrando un mensaje en pantalla con el uso de `printf` y después debemos leerlo del teclado usando `scanf`. La función `scanf`, requiere dos cosas para funcionar:
 
@@ -78,7 +78,7 @@ scanf("%f", &radio);
 
 Usamos el especificador `%f` pues recibiremos un número flotante y lo almacenaremos en la dirección de memoria de la variable `radio` por lo cual escribimos `&radio`.
 
-#### 5. Calcular el área
+### 5. Calcular el área
 
 Ahora calcularemos el área y la guardaremos en la variable `area`, con lo cual traduciremos la fórmula anterior. Podriamos calcular el valor de *pi* pero queda fuera de los objetivos de este curso, así que ocuparemos una biblioteca que tenga esta definición.
 
@@ -89,7 +89,7 @@ La biblioteca `math.h` incluye varias funciones y constantes que harán nuestra 
 #include <math.h>
 ```
 
-Puedes consultas las funciones de esta biblitoteca [aquí](https://www.geeksforgeeks.org/c-library-math-h-functions/).
+Puedes consultar las funciones de esta biblitoteca [aquí](https://www.geeksforgeeks.org/c-library-math-h-functions/).
 
 Nosotros simplemente usaremos la definición de *pi* mediante la constante `M_PI` y usaremos la función `pow` que permite elevar un número a una potencia, en este caso, elevaremos `radio` al cuadrado. De esta forma el cálculo queda como sigue:
 
