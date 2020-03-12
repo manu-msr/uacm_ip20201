@@ -1,6 +1,6 @@
 [`Introducción a la Programación`](../../README.md) > `Actividad 1`
 
-## Actividad 1: Procesamiento de instrucciones I :work:
+## Actividad 1: Procesamiento de instrucciones I :muscle:
 
 <img src="imagenes/reto.gif" align="right" width="300" height="250">
 

@@ -11,7 +11,7 @@
 1. Notas de clase disponibles en la [Página del curso](https://sites.google.com/view/uacmip20201/material).
 1. Página del simulador: [Von Neumann Simulator](http://vnsimulator.altervista.org/).
 
-### 3. Desarrollo
+### 3. Desarrollo :rocket:
 
 1. Ingresa a la página del simulador.
 
