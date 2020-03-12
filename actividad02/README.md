@@ -1,4 +1,4 @@
-[`Introducción a la Programación`](../../README.md) > `Actividad 2`
+[`Introducción a la Programación`](../README.md) > `Actividad 2`
 
 ## :muscle::nerd_face: Actividad 2: Procesamiento de instrucciones II
 
