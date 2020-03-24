@@ -196,11 +196,12 @@ Es clara.
 6. Si n1 > n2, ve al paso 7, si no, ve al paso 10
 7. suma = n1 + n2
 8. resta = n1 - n2
-9. Imprimir "Suma " + suma + " Resta: " + resta
-10. multi = n1 * n2
-11. divi = n1 / n2
-12. Imprimir "Multiplicación " + multi + " División: " + divi
-13. Fin
+9. Ir al paso 14.
+10. Imprimir "Suma " + suma + " Resta: " + resta
+11. multi = n1 * n2
+12. divi = n1 / n2
+13. Imprimir "Multiplicación " + multi + " División: " + divi
+14. Fin
 
 **Desarrollo de la solución del problema**   
 *Implementación en el lenguaje __C__*
