@@ -15,10 +15,16 @@ Introducción a la Programación es una materia obligatoria del primer semestre 
 
 ### Contenido
 
+#### Unidad 1: Conceptos generales
+
 - [Sesión 1: Procesamiento de Instrucciones I](sesion01/README.md)
 - [Sesión 2: Procesamiento de Instrucciones II](sesion02/README.md)
 - [Sesión 3: Diseño de algoritmos con __Karel__](sesion03/README.md)
+
+#### Unidad 2: Introducción al Lenguaje de Programación __C__
+
 - [Sesión 4: Operaciones de salida en __C__](sesion04/README.md)
 - [Sesión 5: Aritmética en __C__](sesion05/README.md)
+- [Sesión 6: Estructuras de Decisión](sesion06/README.md)
 
 [`Siguiente`](sesion01/README.md)
