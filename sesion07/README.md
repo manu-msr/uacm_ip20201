@@ -336,4 +336,4 @@ int main(void)
 }
 ```
 
-[`Anterior`](../actividad05/README.md) | [`Siguiente`](../actividad06/README.md)
+[`Anterior`](../actividad05/README.md) | [`Siguiente`](../actividad07/README.md)
