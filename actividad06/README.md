@@ -10,4 +10,4 @@ Dado un número positivo de uno o dos dígitos, mostrar en pantalla un mensaje i
 
 **Entrega:** Sábado 28 de marzo de 2020.
 
-[`Anterior`](../sesion02/README.md) | [`Siguiente`](../sesion03/README.md)
+[`Anterior`](../sesion06/README.md) | [`Siguiente`](../sesion07/README.md)

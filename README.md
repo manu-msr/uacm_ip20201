@@ -26,5 +26,6 @@ Introducción a la Programación es una materia obligatoria del primer semestre 
 - [Sesión 4: Operaciones de salida en __C__](sesion04/README.md)
 - [Sesión 5: Aritmética en __C__](sesion05/README.md)
 - [Sesión 6: Estructuras de Decisión](sesion06/README.md)
+- [Sesión 7: Estructuras de Decisión Múltiple](sesion07/README.md)
 
 [`Siguiente`](sesion01/README.md)
