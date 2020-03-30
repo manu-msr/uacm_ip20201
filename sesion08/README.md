@@ -68,15 +68,15 @@ do
 
 En esta estructura se garantiza que el bloque de instrucciones es ejecutado al menos una vez.
 
-- [**`EJEMPLO 3`**](ejemplo03/Readme.md)
-- [**`EJEMPLO 4`**](ejemplo04/Readme.md)
+- [**`EJEMPLO 3`**](ejemplo03/README.md)
+- [**`EJEMPLO 4`**](ejemplo04/README.md)
 
 ---
 
 ### 3. Actividad :memo:
 Aplica lo todo lo que aprendiste durante la sesión en esta actividad. 
 
-- [**`POSTWORK SESIÓN 1`**](actividad/Readme.md)
+- [**`POSTWORK SESIÓN 1`**](actividad/README.md)
 
 [`Anterior`](../sesion07/README.md) | `Siguiente`
 
