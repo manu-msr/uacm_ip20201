@@ -1,4 +1,4 @@
-[`Introducción a la Programación`](../README.md) > `Sesión 8`
+[`Introducción a la Programación`](../README.md) > [`Sesión 8`](../README.md) > `Ejemplo 1`
 
 ## Ejemplo 1: Múltiplos de cinco
 
@@ -44,23 +44,22 @@ Es clara.
 
 int main(void)
 {
-	// Inicialización
-	int i = 100;
+   // Inicialización
+   int i = 100;
 
-	// Condición
-	while (i < 100)
-	{
-		// Bloque de instrucciones
-		printf("%d ", i);
-		i -= 5; // Actualización
-	}
+   // Condición
+   while (i < 100)
+   {
+      // Bloque de instrucciones
+      printf("%d ", i);
+      i -= 5; // Actualización
+   }
 
-	return 0;
+   return 0;
 }
 
 ```
 
 [`Anterior`](../Readme.md#estructura-while) | [`Siguiente`](../ejemplo02/README.md)   
-
 
 </div>
