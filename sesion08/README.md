@@ -48,7 +48,7 @@ while (condición)
 
 La condición debe ser cualquier expresión booleana, en particular, los *operadores relacionales*. El bloque de instrucciones puede ser cualquier instrucción válida de __C__, incluso otra estructura de control.
 
-- [**`EJEMPLO 1`**](ejemplo01/Readme.md)
+- [**`EJEMPLO 1`**](ejemplo01/README.md)
 - [**`EJEMPLO 2`**](ejemplo02/Readme.md)
 
 ---
