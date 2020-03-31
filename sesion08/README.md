@@ -76,7 +76,7 @@ En esta estructura se garantiza que el bloque de instrucciones es ejecutado al m
 ### 3. Actividad :memo:
 Aplica lo todo lo que aprendiste durante la sesión en esta actividad. 
 
-- [**`POSTWORK SESIÓN 1`**](actividad/README.md)
+- [**`ACTIVIDAD 8`**](actividad/README.md)
 
 [`Anterior`](../sesion07/README.md) | `Siguiente`
 
