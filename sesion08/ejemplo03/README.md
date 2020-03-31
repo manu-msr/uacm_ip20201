@@ -32,12 +32,80 @@ Es clara.
    ![imagen](imagenes/imagen3.gif)
 
 #### Diseño de la solución del problema
+<img src="imagenes/imagen1.png" width="350" height="900" align="right">
 
-*Modifica el algoritmo de la sesión 7*
+1. Inicio
+2. Imprime "Introduce una opción"
+3. Imprime "[1] Centímetros a pulgadas"
+4. Imprime "[2] Libras a kilogramos"
+5. Imprime "[3] Salir"
+6. Imprime "Opción: "
+7. Leer opcion
+8. Según opcion, hacer:
+   - Si opcion = 1:
+      - Imprimir "Introduce la distancia en centímetros: "
+      - Leer v
+      - resultado = v / 254
+      - Imprimr "Resultado: " + resultado
+   - Si opcion = 2
+      - Imprimir "Introduce el peso en libras: "
+      - Leer v
+      - resultado = v * (1 / 2.21)
+      - Imprimr "Resultado: " + resultado
+   - Si opción = 3
+      - Ve al paso 9	
+9. Mientras opción != 3, ve al paso 2. Si no, ve al paso 10.
+10. Fin
 
 #### Desarrollo de la solución del problema
 
-*Modifica el código de la sesión 7*
+```c
+#include <stdio.h>
+
+int main(void)
+{
+	// Declaración de variables.
+	int opcion;
+	float v;
+	float resultado;
+
+	do
+	{
+		// Mostrar el menú de opciones
+		printf("Introduce una opción\n");
+		printf("[1] Centímetros a pulgadas\n");
+		printf("[2] Libras a Kilogramos\n");
+		printf("[3] Salir\n");
+		printf("Opción: ");
+		scanf("%d", &opcion);
+
+		// Procesar la opción elegida
+		switch(opcion)
+		{
+			case 1:
+			   printf("\nIntroduce la distancia en centímetros: ");
+			   scanf("%f", &v);
+			   resultado = v / 254;
+			   printf("\nResultado: %f\n", resultado);
+			   break;
+			case 2:
+			   printf("\nIntroduce el peso en libras: ");
+			   scanf("%f", &v);
+			   resultado = v * (1/2.21);
+			   printf("\nResultado: %f\n", resultado);
+			   break;
+			case 3:
+				break;
+			default:
+			   printf("\nEntrada incorrecto.\n");
+		}
+
+	} while (opcion != 3);
+
+	// system("pause");
+	return 0;
+}
+```
 
 [`Anterior`](../README.md#estructura-do-while) | [`Siguiente`](../Ejemplo04/README.md)   
 
