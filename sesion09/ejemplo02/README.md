@@ -28,7 +28,7 @@ Es clara.
    - Mostrar resultados
 
 #### Diseño de la solución del problema
-<img src="imagenes/imagen1.png" width="200" height="8 00" align="right">
+<img src="imagenes/imagen1.png" width="200" height="800" align="right">
 
 1. Inicio
 2. Imprimir "Introduce un número: "
