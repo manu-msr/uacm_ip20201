@@ -1,6 +1,6 @@
 [`Introducción a la Programación`](../README.md) > [`Sesión 9`](../README.md) > `Actividad`
 
-## Actividad 8
+## Actividad 9
 
 <div style="text-align: justify;">
 
