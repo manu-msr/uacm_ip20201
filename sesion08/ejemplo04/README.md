@@ -35,7 +35,7 @@ Es clara.
 4. c = c + cantidad
 5. Imprime "Introduce el precio: "
 6. Leer precio
-7. p = p + precio
+7. p = p + (precio * cantidad)
 8. Imprime "¿Deseas registrar más productos? (s/n)"
 9. Leer respuesta
 10. Mientras la respuesta sea 's', Ve al paso 2. Si no, ve al paso 6.
