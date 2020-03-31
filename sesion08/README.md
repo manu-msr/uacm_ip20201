@@ -78,6 +78,6 @@ Aplica lo todo lo que aprendiste durante la sesión en esta actividad.
 
 - [**`ACTIVIDAD 8`**](actividad/README.md)
 
-[`Anterior`](../sesion07/README.md) | `Siguiente`
+[`Anterior`](../sesion07/README.md) | [`Siguiente`](../sesion09/README.md)
 
 </div>

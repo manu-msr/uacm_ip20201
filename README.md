@@ -28,5 +28,6 @@ Introducción a la Programación es una materia obligatoria del primer semestre 
 - [Sesión 6: Estructuras de Decisión](sesion06/README.md)
 - [Sesión 7: Estructuras de Decisión Múltiple](sesion07/README.md)
 - [Sesión 8: Estructuras de Repetición `while` y `do-while`](sesion08/README.md)
+- [Sesión 9: Estructura de repetición `for`](sesion09/README.md)
 
 [`Siguiente`](sesion01/README.md)
