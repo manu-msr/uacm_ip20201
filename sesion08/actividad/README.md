@@ -18,6 +18,6 @@ Escribir un programa que calcule el área de una figura geométrica dependiendo 
 
 **Entrega:** 4 de abril de 2020
 
-[`Anterior`](../Ejemplo03/README.md) | [`Siguiente`](../README.md#3-actividad-memo)   
+[`Anterior`](../README.md#3-actividad-memo) | [`Siguiente`](../README.md#3-actividad-memo)   
 
 </div>

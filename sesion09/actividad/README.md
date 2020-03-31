@@ -1,4 +1,4 @@
-[`Introducción a la Programación`](../README.md) > [`Sesión 8`](../README.md) > `Actividad`
+[`Introducción a la Programación`](../README.md) > [`Sesión 9`](../README.md) > `Actividad`
 
 ## Actividad 8
 
@@ -6,7 +6,7 @@
 
 ### 1. Objetivos :dart:
 
-- Poner en práctica el uso de la estructura de repetición `do-while`
+- Poner en práctica el uso de la estructura de repetición `for`
 
 ### 2. Requisitos :clipboard:
 
@@ -14,10 +14,10 @@
 
 ### 3. Desarrollo :rocket:
 
-Escribir un programa que calcule el área de una figura geométrica dependiendo la opción seleccionada por el usuario en un menú que se repite hasta seleccionar la opción “Salir”. Las figuras aceptadas son: círculo, triángulo, cuadrado.
+Escribir un programa que dado un número entero mayor o igual a cero, calcule la suma de los dígitos de dicho número. Por ejemplo, la suma de los dígitos de 1729 es 19.
 
-**Entrega:** 4 de abril de 2020
+**Entrega:** 5 de abril de 2020
 
-[`Anterior`](../Ejemplo03/README.md) | [`Siguiente`](../README.md#3-actividad-memo)   
+[`Anterior`](../README.md#3-actividad-memo) | [`Siguiente`](../README.md#3-actividad-memo)   
 
 </div>

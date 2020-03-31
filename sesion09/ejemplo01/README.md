@@ -1,12 +1,12 @@
-[`Introducción a la Programación`](../README.md) > [`Sesión 8`](../README.md) > `Ejemplo 1`
+[`Introducción a la Programación`](../README.md) > [`Sesión 9`](../README.md) > `Ejemplo 1`
 
-## Ejemplo 1: Múltiplos de cinco
+## Ejemplo 1: Longitud de números
 
 <div style="text-align: justify;">
 
 ### 1. Objetivos :dart:
 
-- Poner en práctica el uso de la estructura de repetición `while`
+- Poner en práctica el uso de la estructura de repetición `for`
 
 ### 2. Requisitos :clipboard:
 
@@ -14,28 +14,34 @@
 
 ### 3. Desarrollo :rocket:
 
-Se requiere escribir un programa en que muestre los múltiplos de cinco menores a 100 de forma decendente. A continuación se muestra la metodología de solución de problemas junto con el código en C.
+Se necesita un programa que dado un número entero mayor o igual a cero, calcule la longitud de dicho número. Por ejemplo, si se proporciona el 1729, el programa debe regresar 4.
 
 #### Definición del problema
 Es clara.
 
 #### Análisis del problema
-- Entrada: Ninguna
-- Salida: Múltipos de cinco menores a 100 de forma descendente.
+- Entrada: Un número entero mayor o igual a cero.
+- Salida: Longitud del número
 - Proceso: 
-   - Inicializar variable de control el 100.
-   - Mientras la variable de control sea menor 5, mostrar el múltiplo de 5 más cercano a la variable de control.
+   - Pedir datos al usuario
+   - Calcular la longitud del número
+   - Mostrar resultado
 
 #### Diseño de la solución del problema
-<img src="imagenes/imagen1.png" width="200" height="350" align="right">
+<img src="imagenes/imagen1.png" width="250" height="600" align="right">
 
 1. Inicio
-1. i = 100
-1. mientras i > 5 ve al paso 4, si no, ve al paso 7.
-1. Imprime i
-1. i = i - 5
-1. Vuelve al paso 3.
-1. Fin.
+2. Imprimir "Introduce un número: "
+3. Leer n
+4. aux = 1
+5. i = n
+6. Mientras i < 9, ve al paso 7
+7. aux = aux + 1
+8. i = i/10
+9. Vuelve al paso 6
+10. Imprimir "Longitud: " + aux
+11. Fin
+
 
 #### Desarrollo de la solución del problema
 
@@ -44,17 +50,19 @@ Es clara.
 
 int main(void)
 {
-   // Inicialización
-   int i = 100;
+   int n;
 
-   // Condición
-   while (i < 100)
+   printf("Introduce un número: ");
+   scanf("%d", &n);
+
+   int aux = 1;
+   
+   for (int i = n; i > 9; i /= 10) 
    {
-      // Bloque de instrucciones
-      printf("%d ", i);
-      i -= 5; // Actualización
+      aux++;
    }
 
+   printf("La longitud es: %d", aux);
    return 0;
 }
 
