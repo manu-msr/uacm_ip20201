@@ -107,6 +107,6 @@ int main(void)
 }
 ```
 
-[`Anterior`](../README.md#estructura-do-while) | [`Siguiente`](../Ejemplo04/README.md)   
+[`Anterior`](../README.md#estructura-do-while) | [`Siguiente`](../ejemplo04/README.md)   
 
 </div>
