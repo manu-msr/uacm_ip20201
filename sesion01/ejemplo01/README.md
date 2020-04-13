@@ -84,6 +84,6 @@
 
    ![imagen](imagenes/s1e15.png)
 
-[`Anterior`](../README.md#procesamiento-de-instrucciones) | [`Siguiente`](../README.md##3-actividad-memo)   
+[`Anterior`](../README.md#procesamiento-de-instrucciones) | [`Siguiente`](../README.md#3-actividad-memo)   
 
 </div>
