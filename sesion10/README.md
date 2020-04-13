@@ -44,7 +44,7 @@ colocando `void` en el tipo de regreso y por lo tanto no se necesita la instrucc
 ### 3. Actividad :memo:
 Aplica lo todo lo que aprendiste durante la sesión en esta actividad. 
 
-- [**`ACTIVIDAD 9`**](actividad/README.md)
+- [**`ACTIVIDAD 10`**](actividad/README.md)
 
 [`Anterior`](../sesion09/README.md) | `Siguiente`
 
