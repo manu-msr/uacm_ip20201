@@ -156,6 +156,6 @@ El volumen es: 3141.592773
 
 ```
 
-[`Anterior`](../ejemplo02/README.md) | [`Siguiente`](../ejemplo04/README.md)   
+[`Anterior`](../ejemplo02/README.md) | [`Siguiente`](../README.md#prototipos)   
 
 </div>
