@@ -114,6 +114,6 @@ void interpreta(float imc)
 }
 ```
 
-[`Anterior`](../README.md#prototipos) | [`Siguiente`](../README.md#prototipos)   
+[`Anterior`](../README.md#prototipos) | [`Siguiente`](../README.md#3-actividad-memo)   
 
 </div>
