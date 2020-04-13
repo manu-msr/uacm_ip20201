@@ -39,7 +39,7 @@ colocando `void` en el tipo de regreso y por lo tanto no se necesita la instrucc
 - [**`EJEMPLO 3`**](ejemplo03/README.md)
 
 ---
-#### <ins> Prototipos</ins>
+#### <ins>Prototipos</ins>
 <img src="imagenes/imagen2.jpg" width="300" height="200" align="right">
 
 Los prototipos de funciones permiten al compilador de __C__ detectar errores de tipo antes de que el programa sea 
