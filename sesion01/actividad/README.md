@@ -26,4 +26,4 @@ Resuelve los siguientes ejercicios usando el simulador [Von Neumann Simulator](h
 
 2. Realiza la simulación y observa los resultados.
 
-[`Anterior`](../README.md##3-actividad-memo) | [`Siguiente`](../README.md##3-actividad-memo)
+[`Anterior`](../README.md#3-actividad-memo) | [`Siguiente`](../README.md#3-actividad-memo)
