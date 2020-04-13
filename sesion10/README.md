@@ -37,6 +37,26 @@ colocando `void` en el tipo de regreso y por lo tanto no se necesita la instrucc
 - [**`EJEMPLO 1`**](ejemplo01/README.md)
 - [**`EJEMPLO 2`**](ejemplo02/README.md)
 - [**`EJEMPLO 3`**](ejemplo03/README.md)
+
+---
+#### <ins> Prototipos</ins>
+<img src="imagenes/imagen2.jpg" width="300" height="200" align="right">
+
+Los prototipos de funciones permiten al compilador de __C__ detectar errores de tipo antes de que el programa sea 
+ejecutado.
+
+Una buena práctica de programación consiste en colocar los prototipos correspondientes al inicio de cada programa. De
+esta forma, el compilador nos ayuda a detectar posibles errores en tiempo de ejecución y al mismo tiempo permite colocar
+las definiciones de funciones en cualquier punto del programa.
+
+La sintaxis de un prototipo es:
+
+```c
+<tipo-regreso> <nombre>(<tipos>);
+```
+
+En este caso no importa el nombre de los parámetros, únicamente de qué tipo son.
+
 - [**`EJEMPLO 4`**](ejemplo04/README.md)
 
 ---
