@@ -107,6 +107,6 @@ Introduce el tercer número: 2
 El promedio es 7.0
 ```
 
-[`Anterior`](../Readme.md#funciones) | [`Siguiente`](../ejemplo02/README.md)   
+[`Anterior`](../README.md#funciones) | [`Siguiente`](../ejemplo02/README.md)   
 
 </div>
