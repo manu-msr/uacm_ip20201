@@ -4,10 +4,9 @@
 
 ### Información general
 
-**Grupo 321**
-
-**Profesor:** L. en C.C. Manuel Soto Romero  
-Lunes a Jueves 14:30 a 16 hrs. Aula A-007
+L. en C.C. Manuel Soto Romero  
+manumsr93@gmail.com   
+Colegio de Ciencia y Tecnología, UACM
 
 ### Descripción
 
@@ -29,5 +28,9 @@ Introducción a la Programación es una materia obligatoria del primer semestre 
 - [Sesión 7: Estructuras de Decisión Múltiple](sesion07/README.md)
 - [Sesión 8: Estructuras de Repetición `while` y `do-while`](sesion08/README.md)
 - [Sesión 9: Estructura de repetición `for`](sesion09/README.md)
+
+#### Unidad 3: Definición de funciones
+
+- [Sesión 10: Definición de funciones](sesion10/README.md)
 
 [`Siguiente`](sesion01/README.md)
