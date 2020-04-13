@@ -17,7 +17,7 @@ Introducción a la Programación es una materia obligatoria del primer semestre 
 
 #### Unidad 1: Conceptos generales
 
-- [Sesión 1: Procesamiento de Instrucciones I](sesion01/README.md)
+- [Sesión 1: *Von Neumann Simulator I*](sesion01/README.md)
 - [Sesión 2: Procesamiento de Instrucciones II](sesion02/README.md)
 - [Sesión 3: Diseño de algoritmos con __Karel__](sesion03/README.md)
 
