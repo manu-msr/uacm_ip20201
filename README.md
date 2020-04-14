@@ -34,5 +34,6 @@ Introducción a la Programación es una materia obligatoria del primer semestre 
 #### Unidad 3: Definición de funciones
 
 - [Sesión 10: Definición de funciones](sesion10/README.md)
+- [Sesión 11: Programación modular](sesion11/README.md)
 
 [`Siguiente`](sesion01/README.md)
