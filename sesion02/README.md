@@ -30,4 +30,4 @@ Aplica lo todo lo que aprendiste durante la sesión en esta actividad.
 
 - [**`ACTIVIDAD 2`**](actividad/README.md)
 
-[`Anterior`](../README.md) | [`Siguiente`](../sesion02/README.md)
+[`Anterior`](../sesion01/README.md) | [`Siguiente`](../sesion03/README.md)
