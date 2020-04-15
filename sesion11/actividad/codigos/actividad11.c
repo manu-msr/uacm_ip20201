@@ -10,6 +10,7 @@ float areaCuadrado(float);
 float areaPoligonoR(int,float);
 float semiPerimetro(float);
 float apotema(int,float);
+int numeroDiagonales(int);
 
 // Módulo principal
 int main(void)
@@ -110,4 +111,10 @@ float apotema(int n, float m)
 {
    float alpha = 360/n;
    return n / (2*tan(alpha/2));
+}
+
+/* Función que obtiene el número de diagonales de un polígono regular. */
+int numeroDiagonales(int n)
+{
+	// Aquí va su código.
 }
