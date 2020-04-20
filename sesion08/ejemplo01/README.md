@@ -45,7 +45,7 @@ Es clara.
 int main(void)
 {
    // Inicialización
-   int i = 100;
+   int i = 99;
 
    // Condición
    while (i < 100)
