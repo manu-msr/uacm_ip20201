@@ -81,12 +81,12 @@ int main(void)
 	printf("Introduce un día: ");
 	scanf("%d", &d);
 	printf("Introduce un mes: ");
-	scanf("%d", &d);
+	scanf("%d", &m);
 	printf("Introduce un año: ");
 	scanf("%d", &a);
 
 	// Mostrar resultados.
-	switch(mes)
+	switch(m)
 	{
 		case 1:
 			nd = d;
