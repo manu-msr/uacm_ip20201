@@ -128,7 +128,7 @@ int main(void)
 			nd = -1;
 	}
 
-	if (dia != -1)
+	if (nd != -1)
 		printf("\nEl día %d es el día %d del año %d\n", d, nd, a);
 	else
 		printf("\nFecha inválida\n");
