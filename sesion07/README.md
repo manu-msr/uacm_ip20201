@@ -83,7 +83,7 @@ int main(void)
 	printf("Introduce un mes: ");
 	scanf("%d", &d);
 	printf("Introduce un año: ");
-	scanf("%d", $a);
+	scanf("%d", &a);
 
 	// Mostrar resultados.
 	switch(mes)
