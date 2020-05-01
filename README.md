@@ -12,28 +12,40 @@ Colegio de Ciencia y Tecnología, UACM
 
 Introducción a la Programación es una materia obligatoria del primer semestre del Colegio de Ciencia y Tecnología en la Universidad Autónoma de la Ciudad de México. Tiene como principal objetivo aprender los conceptos básicos de la programación estructurada mediante el desarrollo de distintos algoritmos y su implementación en el lenguaje de programación C.
 
-*Este es un trabajo en desarrollo, cualquier sugerencia, corrección u observación es bienvenida.*
-
 ### Contenido
 
 #### Unidad 1: Conceptos generales
 
-- [Sesión 1: *Von Neumann Simulator I*](sesion01/README.md)
-- [Sesión 2: *Von Neumann Simulator II*](sesion02/README.md)
-- [Sesión 3: Diseño de algoritmos con __Karel__](sesion03/README.md)
+- [Sesión 1: *Von Neumann Simulator*](sesion01/README.md)
+- Sesión 2: Descifrando mensajes
+- Sesión 3: Método de solución de problemas
+- Sesión 4: __Karel__
 
-#### Unidad 2: Introducción al Lenguaje de Programación __C__
+#### Unidad 2: Introducción al lenguaje C
 
-- [Sesión 4: Operaciones de salida en __C__](sesion04/README.md)
-- [Sesión 5: Aritmética en __C__](sesion05/README.md)
-- [Sesión 6: Estructuras de Decisión](sesion06/README.md)
-- [Sesión 7: Estructuras de Decisión Múltiple](sesion07/README.md)
-- [Sesión 8: Estructuras de Repetición `while` y `do-while`](sesion08/README.md)
-- [Sesión 9: Estructura de repetición `for`](sesion09/README.md)
+- Sesión 5: Programación Secuencial
+- Sesión 6: Estructuras de decisión
+- Sesión 7: Estructuras de repetición
 
-#### Unidad 3: Definición de funciones
+#### Unidad 3: Funciones
 
-- [Sesión 10: Definición de funciones](sesion10/README.md)
-- [Sesión 11: Programación modular](sesion11/README.md)
+- Sesión 8: Definición de funciones en __Karel__
+- Sesión 9: Definición de funciones en __C__
+
+#### Unidad 4: Recursión
+
+- Sesión 10: Funciones recursivas en __Karel__
+- Sesión 11: Funciones recursivas en __C__
+
+#### Unidad 5: Estructuras de datos
+
+- Sesión 12: Arreglos
+- Sesión 13: Operaciones
+- Sesión 14: Caso práctico (Conjuntos)
+
+#### Unidad 6: Estructuras defindias por el programador
+
+- Sesión 15: Definición de estructuras
+- Sesión 16: Uso de estructuras
 
 [`Siguiente`](sesion01/README.md)
