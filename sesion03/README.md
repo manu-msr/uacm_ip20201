@@ -96,51 +96,51 @@ Para agregar elementos en el diagrama, usaremos los íconos que se encuentran en
 flujo siempre inician con un símbolo de inicio y fianlizan con uno de fin, al igual que los algoritmos. Inicialmente
 verás la siguiente pantalla:
 
-![imagen](imagenes/imagen3.png)
+![imagen](imagenes/imagen3.PNG)
 
 A partir de este punto se construye el diagrama:
 
 1. Añadiremos la impresión del paso 2 del algoritmo. Para ello, en los íconos de la parte superior, elegimos el 
 correspondiente a salida y damos clic en la posición del diagrama en la que queremos que se coloque.
 
-   ![imagen](imagenes/imagen4.png)
+   ![imagen](imagenes/imagen4.PNG)
 
 1. Damos doble clic en el símbolo que apareció sobre el diagrama e introducimos el mensaje a mostrar (con comillas): 
 `'Introduce la distancia en centímetros: '`, posteriormente damos clic en `[Aceptar]`.
 
-   ![imagen](imagenes/imagen5.png)
+   ![imagen](imagenes/imagen5.PNG)
 
 1. Ahora añadimos la lectura de `cm` que representa a una variable. Elegimos el ícono de Lectura y lo colocamos justo
 después del símbolo anterior.
 
-   ![imagen](imagenes/imagen6.png)
+   ![imagen](imagenes/imagen6.PNG)
 
 1. Damos doble clic en el símbolo que apareció sobre el diagrama e introducimos la variable a leer: `cm`, posteriomente
 damos clic en `[Aceptar]`.
 
-   ![imagen](imagenes/imagen7.png)
+   ![imagen](imagenes/imagen7.PNG)
 
 1. Ahora añadimos la instrucción que aplica la regla de tres. Elegimos el ícono de Asignación y lo colocamos justo
 después del símbolo anterior.
 
-   ![imagen](imagenes/imagen8.png)
+   ![imagen](imagenes/imagen8.PNG)
 
 1. Damos doble clic en el símbolo que apareció sobre el diagrama e introducimos la asignación de la variable `m` como:
 `(cm * 600) / 5`, posteriormente damos clic en `[Aceptar]`.
 
-   ![imagen](imagenes/imagen9.png)
+   ![imagen](imagenes/imagen9.PNG)
 
 1. Finalmente volvemos a añadir una Salida, que incluya la variable recién asignada. Para agregar variables a un mensaje
 usamos comas: `La ubicación se encuentra a ',m,'metros de distancia'`.
 
-   ![imagen](imagenes/imagen10.png)
+   ![imagen](imagenes/imagen10.PNG)
 
 1. Finalmente, damos clic en el botón de ejecutar :arrow_forward: y seguimos las instrucciones correspondientes. Por
 ejemplo, para 8 centímetros. Presionamos continuar en cada paso.
 
-   ![imagen](imagenes/imagen11.png)
-   ![imagen](imagenes/imagen12.png)
-   ![imagen](imagenes/imagen13.png)
+   ![imagen](imagenes/imagen11.PNG)
+   ![imagen](imagenes/imagen12.PNG)
+   ![imagen](imagenes/imagen13.PNG)
 
 ---
 
