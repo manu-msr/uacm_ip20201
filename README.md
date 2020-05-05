@@ -18,7 +18,7 @@ Introducción a la Programación es una materia obligatoria del primer semestre 
 
 - [Sesión 1: *Von Neumann Simulator*](sesion01/README.md)
 - [Sesión 2: Descifrando mensajes](sesion02/README.md)
-- Sesión 3: Método de solución de problemas
+- [Sesión 3: Método de solución de problemas](sesion03/README.md)
 - Sesión 4: __Karel__
 
 #### Unidad 2: Introducción al lenguaje C

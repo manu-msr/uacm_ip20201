@@ -89,4 +89,4 @@ Usa los métodos vistos en esta sesión.
 
 ---
 
-[`Anterior`](../sesion01/README.md) | `Siguiente`
+[`Anterior`](../sesion01/README.md) | [`Siguiente`](../sesion03/README.md)

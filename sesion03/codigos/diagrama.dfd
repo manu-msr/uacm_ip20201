@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'Introduce la distancia en centímetros: '
+5
+1
+2
+cm
+6
+1
+1
+m
+15
+(cm * 600) /  5
+4
+1
+52
+'La ubicación se encuentra a ' , m , ' de distancia'
+1
