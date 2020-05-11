@@ -157,4 +157,4 @@ En esta fase debemos llevar el diseño de la solución a un lenguaje de programa
 más adelante.
 
 
-[`Anterior`](../sesion02/README.md) | `Siguiente`
+[`Anterior`](../sesion02/README.md) | [`Siguiente`](../sesion04/README.md)
