@@ -35,7 +35,7 @@ Introducción a la Programación es una materia obligatoria del primer semestre 
 #### Unidad 4: Recursión
 
 - Sesión 10: Funciones recursivas en __Karel__
-- Sesión 11: Funciones recursivas en __C__
+- [Sesión 11: Funciones recursivas en __C__](sesion11/README.md)
 
 #### Unidad 5: Estructuras de datos
 
